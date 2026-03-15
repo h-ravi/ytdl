@@ -64,7 +64,7 @@ Hume downloader ko aapke phone ke internal Download folder me rakhna hai.
 3. **Ab downloader script ko wahan download (clone) karein:**
    *(Kyunki humne Step 1 me Git install kar liya tha, ab yeh error nahi dega)*
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/ytdl.git
+   git clone https://github.com/h-ravi/ytdl.git
    ```
 
 ---
