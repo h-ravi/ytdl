@@ -6,6 +6,9 @@ Is script ki madad se aap YouTube, Instagram, Facebook, aur aisi hi saikdon aur 
 > **💡 Note for Beginners:** Agar aap Termux pehli baar use kar rahe hain aur aapne kabhi Linux use nahi kiya hai, toh ghabrane ki zarurat nahi hai! Bas in steps ko bilkul waise hi follow karein jaise niche likha hai.
 
 ---
+## sabase pahale termux download and install kare
+
+[Download Latest Termux](https://f-droid.org/repo/com.termux_1022.apk)
 
 ## 🛠️ Step 1: Termux Setup aur Zaroori Tools (Pehle ye karein!)
 
